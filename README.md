@@ -9,9 +9,7 @@ Faqja e web-it perfaqeson nje agjensi udhetimi, duke ofruar informacion per dest
 ## 🛠 Gjuhet e programimit te perdorura
 
 - HTML5– per strukturen e faqes  
-- CSS3 – për stilizim dhe dizajn vizual  
-- Bootstrap – per layout responsive  
-- JavaScript  – per nderveprime bazike  
+- CSS3 – për stilizim dhe dizajn vizual    
 
 ## 🎯 Qellimi i projektit
 
@@ -19,4 +17,3 @@ Faqja e web-it perfaqeson nje agjensi udhetimi, duke ofruar informacion per dest
 - Zbatimi i parimeve te dizajnit minimalist
 - Permiresimi i aftesive ne HTML dhe CSS
 - Krijimi i nje projekti per portofolio personale
-- Krijimi i një projekti për portofolio personale
