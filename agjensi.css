@@ -1,0 +1,235 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+
+
+    
+
+    header {
+        background-color: #0a4d68;
+        padding: 20px;
+        text-align: center;
+        color: white;
+    }
+    header h1 {
+        font-family:brush script mt;
+        font-size: 60px;
+        margin-bottom: 10px;
+        text-shadow: 2px 2px 5px black;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav ul li {
+        display: inline;
+        margin: 0 15px;
+    }
+    nav ul li a {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+
+
+
+
+
+    .hero {
+        background-image: url('foto8.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 60vh;
+        color: white;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hero h2 {
+        font-size: 48px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+
+
+
+
+
+
+    .packages {
+        padding: 50px 20px;
+        text-align: center;
+    }
+    .packages h2 {
+        font-family: Arial rounded  MT;
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .package-item {
+        display: inline-block;
+        width: 30%;
+        margin: 15px;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s;
+    }
+
+    .package-item img {
+        width: 100%;
+        height: auto;
+    }
+    .package-item:hover {
+        transform: scale(1.05);
+    }
+
+    
+    .package-item .package-info {
+        background-color: #fff;
+        padding: 15px;
+        text-align: left;
+    }
+    .package-item .package-info h3 {
+        font-size: 24px;
+        color: #0a4d68;
+    }
+
+
+
+
+
+
+
+
+
+
+    #background{
+        background-color: rgb(255, 247, 201);
+    }
+
+    .gallery {
+        padding: 50px 20px;
+        text-align: center;
+    }
+    .gallery h2 {
+        font-family: Arial rounded  MT;
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .gallery-images {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .gallery-images img {
+        width: 30%;
+        margin: 10px;
+        border-radius: 8px;
+        transition: transform 0.3s;
+    }
+    .gallery-images img:hover {
+        transform: scale(1.05);
+    }
+
+
+
+
+
+
+
+    .booking {
+        padding: 50px 20px;
+        background-color: #0a4d68;
+        color: white;
+        text-align: center;
+    }
+    .booking h2 {
+        font-family: arial rounded mt;
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .booking form {
+        max-width: 500px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .booking input, .booking select, .booking button {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .booking button {
+        background-color: #0a4d68;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    .booking button:hover {
+        background-color: #085b73;
+    }
+
+
+
+
+
+    footer {
+        background-color: #0a4d68;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+
+
+
+
+
+
+    @media screen and (max-width: 768px) {
+        header h1 {
+            font-size: 28px;
+        }
+        nav ul li {
+            display: block;
+            margin: 10px 0;
+        }
+        .hero h2 {
+            font-family: arial rounded mt;
+            font-size: 32px;
+        }
+        .package-item {
+            width: 100%;
+            margin: 20px 0;
+        }
+        .gallery-images img {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .booking form {
+            width: 90%;
+            padding: 15px;
+        }
+    }
+
+    
+
+    @media screen and (max-width: 480px) {
+        .hero h2 {
+            font-size: 24px;
+            font-family: Arial rounded  MT;
+        }
+        .packages h2, .gallery h2, .booking h2 {
+            font-family: Arial rounded  MT;
+            font-size: 28px;
+        }
+    }
