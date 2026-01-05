@@ -4,7 +4,7 @@ Ky projekt eshte zhvilluar si pjese e ushtrimeve te mia praktike gjate procesit 
 
 ## 📝 Pershkrimi i projektit
 
-Faqja e web-it perfaqeson nje *agjensi udhetimi, duke ofruar informacion per destinacione, sherbime dhe mundesi udhetimi. Dizajni eshte minimalist dhe i paster, me fokus ne renditjen e permbajtjes dhe pervojen e perdoruesit.
+Faqja e web-it perfaqeson nje agjensi udhetimi, duke ofruar informacion per destinacione, sherbime dhe mundesi udhetimi. Dizajni eshte minimalist dhe i paster, me fokus ne renditjen e permbajtjes dhe pervojen e perdoruesit.
 
 ## 🛠 Gjuhet e programimit te perdorura
 
