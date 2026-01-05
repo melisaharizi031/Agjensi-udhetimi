@@ -11,7 +11,7 @@ Faqja e web-it perfaqeson nje *agjensi udhetimi, duke ofruar informacion per des
 - HTML5– per strukturen e faqes  
 - CSS3 – për stilizim dhe dizajn vizual  
 - Bootstrap – per layout responsive  
- -JavaScript  – per nderveprime bazike  
+- JavaScript  – per nderveprime bazike  
 
 ## 🎯 Qellimi i projektit
 
