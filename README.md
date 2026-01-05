@@ -1,22 +1,22 @@
 # Agjensi-udhetimi
 
-Ky projekt është zhvilluar si pjesë e ushtrimeve të mia praktike gjatë procesit të të mësuarit të zhvillimit web. Qëllimi kryesor ka qenë ndërtimi i një faqeje web funksionale dhe vizualisht të pastër për një agjensi udhëtimi.
+Ky projekt eshte zhvilluar si pjese e ushtrimeve te mia praktike gjate procesit te te mesuarit te zhvillimit web. Qellimi kryesor ka qene ndertimi i nje faqeje web funksionale dhe vizualisht te paster per nje agjensi udhetimi.
 
-## 📝 Përshkrimi i Projektit
+## 📝 Pershkrimi i projektit
 
-Faqja e web-it përfaqëson një *agjensi udhëtimi, duke ofruar informacion për destinacione, shërbime dhe mundësi udhëtimi. Dizajni është **minimalist dhe i pastër*, me fokus në renditjen e përmbajtjes dhe përvojën e përdoruesit.
+Faqja e web-it perfaqeson nje *agjensi udhetimi, duke ofruar informacion per destinacione, sherbime dhe mundesi udhetimi. Dizajni eshte minimalist dhe i paster, me fokus ne renditjen e permbajtjes dhe pervojen e perdoruesit.
 
-## 🛠 Teknologjitë e Përdorura
+## 🛠 Gjuhet e programimit te perdorura
 
-- *HTML5* – për strukturën e faqes  
-- *CSS3* – për stilizim dhe dizajn vizual  
-- *Bootstrap* – për layout responsive  
-- *JavaScript / jQuery* – për ndërveprime bazike  
-- *Adobe Photoshop* – për përpunimin e elementeve grafike  
+- HTML5– per strukturen e faqes  
+- CSS3 – për stilizim dhe dizajn vizual  
+- Bootstrap – per layout responsive  
+ -JavaScript  – per nderveprime bazike  
 
-## 🎯 Qëllimi i Projektit
+## 🎯 Qellimi i projektit
 
-- Praktikimi i strukturimit të një website real
-- Zbatimi i parimeve të dizajnit minimalist
-- Përmirësimi i aftësive në HTML dhe CSS
+- Praktikimi i strukturimit te nje website real
+- Zbatimi i parimeve te dizajnit minimalist
+- Permiresimi i aftesive ne HTML dhe CSS
+- Krijimi i nje projekti per portofolio personale
 - Krijimi i një projekti për portofolio personale
